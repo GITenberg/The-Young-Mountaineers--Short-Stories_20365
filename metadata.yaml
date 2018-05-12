@@ -1,0 +1,43 @@
+_repo: The-Young-Mountaineers--Short-Stories_20365
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fraser, Malcolm
+    alias: Fraser, Charles Malcolm
+    birthdate: 1868
+    deathdate: 1949
+    gutenberg_agent_id: '9249'
+    url: http://www.gutenberg.org/2009/agents/9249
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tennessee -- Social life and customs -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'Cumberland Mountains -- Fiction'
+tableOfContents: The mystery of old Daddy's window -- 'Way down in Poor Valley --
+  A mountain storm -- Borrowing a hammer -- The Conscripts' Hollow -- A warning --
+  Among the cliffs -- In the "chinking" -- On a higher level -- Christmas Day on Old
+  Windy Mountain.
+title: 'The Young Mountaineers: Short Stories'
+url: http://www.gutenberg.org/ebooks/20365
